@@ -1,0 +1,17 @@
+Privacy Policy
+This privacy policy applies to the Recipes app, a free application that provides users with access to a variety of recipes from different cuisines and categories. The app is developed and maintained by [your name or company name].
+
+What information do we collect?
+We do not collect any personal information from our users. The app does not require any registration, login, or account creation. The app does not use any third-party services or libraries that may collect or store user data. The app does not access or use any device features or permissions, such as camera, microphone, location, contacts, etc.
+
+How do we use the information?
+Since we do not collect any information, we do not use it for any purpose. We respect your privacy and do not share, sell, or disclose any user data to anyone.
+
+How do we protect the information?
+We do not store any user data on our servers or devices. The app runs entirely on your device and does not transmit any data over the internet. The app does not use any encryption or security measures, as there is no data to protect.
+
+How can you contact us?
+If you have any questions or feedback about our privacy policy or our app, you can contact us at [your email address]. We will respond to your inquiries as soon as possible.
+
+Changes to this policy
+We may update this policy from time to time to reflect changes in our app or legal requirements. We will notify you of any changes by posting the new policy on this page. You are advised to review this policy periodically for any changes. This policy is effective as of [the date of creation].

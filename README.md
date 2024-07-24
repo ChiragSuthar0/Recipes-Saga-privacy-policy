@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Recipes App
+Recipes app is a free and simple application that provides users with access to a variety of recipes from different cuisines and categories. You can browse, search, and save your favorite recipes, as well as share them with your friends and family.
 
-## Getting Started
+Features
+No registration, login, or account creation required
+No internet connection required
+No personal information collected or stored
+No ads or in-app purchases
+Hundreds of recipes from different cuisines and categories
+Easy to follow instructions and ingredients list
+Ability to save recipes for offline access
+Ability to share recipes via email, text, or social media
+How to use
+Download and install the app from [the app store link]
+Open the app and choose a cuisine or category from the main menu
+Browse or search for recipes that match your preferences
+Tap on a recipe to view its details, ingredients, and instructions
+Tap on the save icon to add the recipe to your favorites
+Tap on the share icon to share the recipe with others
+Feedback and support
+We appreciate your feedback and suggestions to improve our app. If you have any questions, issues, or comments, please contact us at [your email address]. We will try to respond to your inquiries as soon as possible.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+License
+This app is licensed under the [the license name] license. You can view the full license text [here](the license link).
